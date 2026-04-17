@@ -32,6 +32,8 @@ We evaluate HUGS on two widely used indoor scene datasets: [Replica](https://git
 <img width="1840" height="528" alt="image" src="https://github.com/user-attachments/assets/d625168a-ceda-4066-9d96-8dce499757d7" />
 </p>
 
+HUGS achieves improved average reconstruction performance with a 30-second reduction in processing time.
+
 
 ## Acknowledgement
 Parts of the code are based on [ActiveGS](https://github.com/dmar-bonn/active-gs). We thank the authors for open-sourcing their code.
