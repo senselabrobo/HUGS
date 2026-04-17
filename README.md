@@ -34,9 +34,3 @@ HUGS achieves improved average reconstruction performance with a 30-second reduc
 
 ## Acknowledgement
 Parts of the code are based on [ActiveGS](https://github.com/dmar-bonn/active-gs). We thank the authors for open-sourcing their code.
-
-
-
-## Project Funding
-This work was supported by the Beijing Natural Science Foundation (L253009); the National Natural Science Foundation of China (62334006, U25A20489); the Brain Science and Brain-like Intelligence Technology National Science and Technology Major Project of China (Grant No. 2025ZD0215600);
-the National Key Technologies R&D Program of China (2025YFF1500600); and the Shanxi Provincial Basic Research Program (202403021212166).
