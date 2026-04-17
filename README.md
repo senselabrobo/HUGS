@@ -1,8 +1,5 @@
 # HUGS: Hybrid-Uncertainty-Guided Active 3D Reconstruction with Gaussian Splatting
 
-Rong Zhao<sup>1,2</sup>, Yichi Zhang<sup>3</sup>, Mingkai Liu<sup>4</sup>, Haohua Que<sup>5</sup>, and Fei Qiao<sup>5</sup>
-
-<sup>1</sup> North University of China, <sup>2</sup>Tsinghua University Tianjin Institute of Electronic Information, <sup>3</sup>Lanzhou University, <sup>4</sup>School of Software and Microelectronics, Peking University, <sup>5</sup>Department of Electronic Engineering, Tsinghua University
 
 <p align="center">
 <img width="1477" height="623" alt="image" src="https://github.com/user-attachments/assets/4fad5a05-a83f-4e4c-abb0-39984ef00260" />
